@@ -3,13 +3,14 @@ Repo for all my talks (slides and code)
 
 <!-- In progress -->
 <!-- |May 09|Approaching geovisualization and remote sensing with GeoViews|[GeoPython](http://2018.geopython.net/) Talk| - | -->
-<!-- |Apr 20|A 5 minute intro to Hypothesis|[PyCon Italy](https://www.pycon.it/en/) ⚡ Talk|[Slides](https://slides.com/jackdbd/deck-3/#/)| -->
+
 
 ## 2018
 
 | Date | Topic | Location | Links |
 | :--: | :---- | :------- | :---: |
 |Mar 11|Getting started with HDF5 and PyTables|[PyCon SK](https://2018.pycon.sk/en/index.html)|[Jupyter notebook](https://github.com/jackdbd/hdf5-pycon-slovakia/blob/master/hdf5-pytables-pycon-slovakia.ipynb)
+|Apr 20|A 5 minute intro to Hypothesis|[PyCon Italy](https://www.pycon.it/en/) ⚡ Talk|[Slides](https://slides.com/jackdbd/deck-3/#/)|
 
 ## 2017
 
