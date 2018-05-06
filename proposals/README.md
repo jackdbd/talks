@@ -8,7 +8,7 @@ The proposal should contain the following sections:
 - Title
 - Status (WIP / Submitted / Rejected / Accepted)
 - Length (minutes)
-- Audience level
+- Audience level (Beginner / Intermediate / Advanced)
 - Tags / Keywords
 - Description
 - Additional notes (optional)
