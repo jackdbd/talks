@@ -1,8 +1,14 @@
-# talks
+# Talks
+
 Repo for all my talks (slides and code)
 
 <!-- In progress -->
 
+## 2020
+
+| Date | Topic | Location | Links |
+| :--: | :---- | :------- | :---: |
+|Feb 06|Data visualization con Python: teoria e pratica|[Python Firenze](https://www.meetup.com/it-IT/Python-Firenze/events/267967095/) Talk|[Jupyter notebook](https://github.com/jackdbd/python-firenze-meetup-2020-02-06)|
 
 ## 2018
 
