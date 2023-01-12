@@ -16,7 +16,7 @@ Submitted
 
 Intermediate
 
-## Tags / Kewords
+## Tags / Keywords
 
 - HTTP
 - Security

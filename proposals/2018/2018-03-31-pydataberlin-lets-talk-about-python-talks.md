@@ -16,7 +16,7 @@ Rejected
 
 Beginner
 
-## Tags / Kewords
+## Tags / Keywords
 
 - New libraries
 - Python ecosystem

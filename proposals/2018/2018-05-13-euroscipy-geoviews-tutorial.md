@@ -16,7 +16,7 @@ Rejected
 
 Intermediate
 
-## Tags / Kewords
+## Tags / Keywords
 
 - Tutorials
 - New libraries
