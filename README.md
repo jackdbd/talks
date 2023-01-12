@@ -1,8 +1,6 @@
 # Talks
 
-Repo for all my talks (slides and code)
-
-<!-- In progress -->
+All the talks, presentations and workshops I gave at conferences, meetups, etc.
 
 ## 2020
 
@@ -25,3 +23,7 @@ Repo for all my talks (slides and code)
 |Dec 18|High Performance Data Analysis with big HDF5 files in Python|[PyData Munich](https://www.meetup.com/PyData-Munchen/) Tutorial|[Jupyter notebook](https://github.com/jackdbd/hdf5-pydata-munich/blob/master/hdf5_in_python.ipynb)
 |Nov 15|Reactive dashboards with Plotly Dash|[PyMunich](https://www.meetup.com/PyMunich/) Talk|[Slides](http://slides.com/jackdbd/deck#/) / [App 1](https://github.com/jackdbd/dash-earthquakes) / [App 2](https://github.com/jackdbd/dash-fda)
 |Oct 04|Allianz visualization Challenge|[Data Visualization in Munich Meetup](https://www.meetup.com/Data-Visualization-Meetup-Munich/)|[Slides](https://slides.com/jackdbd/dataviz-challenge/#/) / [Code](https://github.com/jackdbd/d3-visualizations/blob/master/src/js/challenge.js)
+
+## Proposals
+
+For the list of my talk/workshop proposals, see [proposals](./proposals/README.md).

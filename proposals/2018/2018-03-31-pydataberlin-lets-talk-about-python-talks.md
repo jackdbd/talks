@@ -1,12 +1,19 @@
 # Let's talk about Python talks!
 
+## Language
+
+English
+
 ## Status
-Submitted
+
+Rejected
 
 ## Length
+
 30 minutes
 
 ## Audience level
+
 Beginner
 
 ## Tags / Kewords
@@ -18,9 +25,11 @@ Beginner
 - Tutorials
 
 ## Description
+
 This talk is about Python talks. I will pick 15-20 talks and examine them under various aspects.
 
 ## Abstract
+
 If you are a Python developer, you cannot really complain about the sheer number of talks freely available on the internet. But you need time to watch them.
 
 Some talks are great, masterpieces. If you listen to them and take notes, they can make you a better developer.

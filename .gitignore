@@ -1,4 +1,2 @@
-.vscode/
-.ipynb_checkpoints/
-notes.py
+# environment variables
 .envrc
