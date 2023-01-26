@@ -4,7 +4,7 @@ This directory contains talk/workshop proposals I made (or will make) to confere
 
 ## Naming convention
 
-Name each proposal using this format: `YYYY-MM-DD-<event-name>-<proposal-title>.md`, e.g.: `2018-03-31-pydataberlin-lets-talk-about-python-talks.md`.
+Name each proposal using this format: `YYYY-MM-DD-<event-name>-<proposal-title>.md`, where `YYYY-MM-DD` is the first day of the conference. E.g.: `2018-03-31-pydataberlin-lets-talk-about-python-talks.md`.
 
 ## What to write in a proposal?
 
