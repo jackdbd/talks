@@ -6,7 +6,7 @@ English
 
 ## Status
 
-Submitted
+Rejected
 
 ## Length
 
