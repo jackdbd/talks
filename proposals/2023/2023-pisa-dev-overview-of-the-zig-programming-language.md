@@ -6,7 +6,7 @@ Italian
 
 ## Status
 
-Submitted
+Accepted
 
 ## Length
 
@@ -29,12 +29,11 @@ It has no preprocessor and no macros black magic. Memory management is manual, s
 
 Zig has a build system that you would expect from a modern programming language, and you can use it to compile for x86_64, ARM, WASM and many more architectures. You can even use the zig toolchain to compile C code.
 
-One of the best features of Zig is its exceptional C interop: you can start writing Zig today and use it in your C codebase; you can also wrap an existing C library in a Zig wrapper, so you can gradually transition your codebase from C to Zig. 
+One of the best features of Zig is its exceptional C interop: you can start writing Zig today and use it in your C codebase; you can also wrap an existing C library in a Zig wrapper, so you can gradually transition your codebase from C to Zig.
 
 ## Pre-requisites
 
 Interest in native languages (e.g. C, Rust). Some knowledge on how memory is allocated in stack-based architectures.
-
 
 ## Outline
 
