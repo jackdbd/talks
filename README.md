@@ -2,6 +2,12 @@
 
 All the talks, presentations and workshops I gave at conferences, meetups, etc.
 
+## 2024
+
+| Date | Topic | Location | Links |
+| :--: | :---- | :------- | :---: |
+|Apr 20|HTTP headers for web security|[pisa.dev](https://pisa.dev/event/machine-learning-to-http-headers-security)|[Repo](https://github.com/jackdbd/http-response-headers-for-web-security/)|
+
 ## 2023
 
 | Date | Topic | Location | Links |
